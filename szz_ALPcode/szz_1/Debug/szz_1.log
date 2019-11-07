@@ -1,0 +1,4 @@
+﻿  Product.cpp
+e:\c++\szz_1\szz_1\product.cpp(105): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\c++\szz_1\szz_1\product.cpp(294): warning C4101: “err6”: 未引用的局部变量
+  szz_1.vcxproj -> E:\c++\szz_1\Debug\szz_1.exe

@@ -1,0 +1,7 @@
+﻿  City.cpp
+  Product.cpp
+e:\c++\szz_alpcode_clone\szz_alpcode\szz_1\product.cpp(98): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\c++\szz_alpcode_clone\szz_alpcode\szz_1\product.cpp(438): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\szz_alpcode_clone\szz_alpcode\szz_1\product.cpp(307): warning C4101: “err6”: 未引用的局部变量
+  正在生成代码...
+  szz_1.vcxproj -> E:\c++\szz_ALPcode_clone\szz_ALPcode\x64\Debug\szz_1.exe
